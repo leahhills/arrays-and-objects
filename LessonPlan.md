@@ -24,6 +24,7 @@
   - `filter`
   - `map`
   - `reduce`
+  - `find`
 
 ###Accessing data in an array
 - How does an array store information?
